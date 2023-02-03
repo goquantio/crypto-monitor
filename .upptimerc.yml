@@ -3,15 +3,70 @@ owner: goquantio # Your GitHub organization or username, where this repository l
 repo: crypto-monitor # The name of this repository
 
 sites:
-  # Binance
-  - name: Ping
-    url: https://api.binance.us/api/v3/ping
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
-
+  # Server Time
   - name: Server Time
     url: https://api.binance.us/api/v3/time
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
 
+  - name: Server Time
+    url: https://api-testnet.bybit.com/v2/public/time
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
+
+  - name: Server Time
+    url: https://api.kraken.com/0/public/Time
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
+
+
+  # Orderbook
+  - name: Orderbook (BTCUSDT)
+    url: https://api.binance.us/api/v3/depth?symbol=BTCUSDT
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
+  - name: Orderbook (BTCUSDT)
+    url: https://api-testnet.bybit.com/public/linear/kline?symbol=BTCUSDT&interval=1&limit=2&from=1581231260
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
+
+  - name: Orderbook (XBTUSD)
+    url: https://api.kraken.com/0/public/Depth?pair=XBTUSD
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
+
+  # OHLCV
+  - name: OHLCV (BTCUSDT/1 Day Interval)
+    url: https://api.binance.us/api/v3/klines?symbol=BTCUSDT&interval=1d
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
+  - name: OHLCV (XBTUSD)
+    url: https://api.kraken.com/0/public/OHLC?pair=XBTUSD
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
+    
+  # Symbol Pair Price
+  - name: Symbol Pairs (BTCUSDT)
+    url: https://api.binance.us/api/v3/ticker?symbol=BTCUSDT
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
+  - name: Symbol Pairs (BTCUSDT/Limit = 500)
+    url: hhttps://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
+
+  - name: Symbol Pairs (XBT/ETH)
+    url: https://api.kraken.com/0/public/AssetPairs?pair=XXBTZUSD,XETHXXBT
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
+
+
+  # Recent Trading
+  - name: Recent Trading - (BTCUSDT)
+    url: https://api.binance.us/api/v3/trades?symbol=BTCUSDT
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
+  - name: Recent Trading - (BTCUSDT/Limit = 500)
+    url: https://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
+
+  - name: Recent Trading - (XBTUSD)
+    url: https://api.kraken.com/0/public/Trades?pair=XBTUSD
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
+
+  # Binance
   - name: Aggregate Trades (BTCUSDT/limit=500)
     url: https://api.binance.us/api/v3/aggTrades?symbol=BTCUSDT&limit=500
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
@@ -20,25 +75,18 @@ sites:
     url: https://api.binance.us/api/v3/avgPrice?symbol=BTCUSDT
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
 
-  - name: Depth - (BTCUSDT)
-    url: https://api.binance.us/api/v3/depth?symbol=BTCUSDT
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
-
   - name: exchangeInfo
     url: https://api.binance.us/api/v3/exchangeInfo
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
-    
-  - name: Klines - (BTCUSDT/1 Day Interval)
-    url: https://api.binance.us/api/v3/klines?symbol=BTCUSDT&interval=1d
+
+  - name: Ping
+    url: https://api.binance.us/api/v3/ping
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
 
   - name: UIKlines (BTCUSDT/1 Day Interval/Limit = 500)
     url: https://api.binance.us/api/v3/uiKlines?symbol=BTCUSDT&interval=1d&limit=500
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
 
-  - name: Ticker - (BTCUSDT)
-    url: https://api.binance.us/api/v3/ticker?symbol=BTCUSDT
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
 
   - name: Ticker/24hr
     url: https://api.binance.us/api/v3/ticker/24hr
@@ -52,14 +100,8 @@ sites:
     url: https://api.binance.us/api/v3/ticker/price
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
 
-  - name: trades - (BTCUSDT)
-    url: https://api.binance.us/api/v3/trades?symbol=BTCUSDT
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
   
   # ByBit
-  - name: Server Time
-    url: https://api-testnet.bybit.com/v2/public/time
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
 
   - name: Kline - (BTCUSDT/Interval 1/From Now)
     url: https://api-testnet.bybit.com/public/linear/kline?symbol=BTCUSDT&interval=1&limit=2&from=1581231260
@@ -69,34 +111,16 @@ sites:
     url: https://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
 
-  - name: Recent Trading - (BTCUSDT/Limit = 500)
-    url: https://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
 
   - name: Latest Funding Rate - (BTCUSDT/Limit = 500)
     url: https://api-testnet.bybit.com/public/linear/funding/prev-funding-rate?symbol=BTCUSDT
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
 
   # Kraken
-  - name: Server Time
-    url: https://api.kraken.com/0/public/Time
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
 
-  - name: Symbol Pairs (XBT/ETH)
-    url: https://api.kraken.com/0/public/Assets?asset=XBT,ETH&aclass=currency
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
     
-  - name: OHLC (XBTUSD)
-    url: https://api.kraken.com/0/public/OHLC?pair=XBTUSD
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
     
-  - name: Orderbook (XBTUSD)
-    url: https://api.kraken.com/0/public/Depth?pair=XBTUSD
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
     
-  - name: Recent Trades (XBTUSD)
-    url: https://api.kraken.com/0/public/Trades?pair=XBTUSD
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
 
 
 
