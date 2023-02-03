@@ -3,8 +3,32 @@ owner: goquantio # Your GitHub organization or username, where this repository l
 repo: crypto-monitor # The name of this repository
 
 sites:
-  - name: Binance
-    url: https://data.binance.com/api/v3/exchangeInfo    
+  - name: Binance - aggTrades
+    url: https://data.binance.com/api/v3/aggTrades
+  - name: Binance - avgPrice
+    url: https://data.binance.com/api/v3/avgPrice
+  - name: Binance - depth
+    url: https://data.binance.com/api/v3/depth
+  - name: Binance - exchangeInfo
+    url: https://data.binance.com/api/v3/exchangeInfo
+  - name: Binance - klines
+    url: https://data.binance.com/api/v3/klines
+  - name: Binance - ping
+    url: https://data.binance.com/api/v3/ping
+  - name: Binance - ticker
+    url: https://data.binance.com/api/v3/ticker
+  - name: Binance - ticker/24hr
+    url: https://data.binance.com/api/v3/ticker/24hr
+  - name: Binance - ticker/bookTicker
+    url: https://data.binance.com/api/v3/ticker/bookTicker
+  - name: Binance - ticker/price
+    url: https://data.binance.com/api/v3/ticker/price
+  - name: Binance - time
+    url: https://data.binance.com/api/v3/time
+  - name: Binance - trades
+    url: https://data.binance.com/api/v3/trades
+  - name: Binance - uiKlines
+    url: https://data.binance.com/api/v3/uiKlines
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
