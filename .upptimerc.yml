@@ -1,6 +1,6 @@
 # Change these first
-owner: pointer0592 # Your GitHub organization or username, where this repository lives
-repo: goquantio/crypto-monitor # The name of this repository
+owner: goquantio # Your GitHub organization or username, where this repository lives
+repo: crypto-monitor # The name of this repository
 
 sites:
   - name: Binance - Ping
@@ -34,16 +34,16 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: goquantio/crypto-monitor
+  baseUrl: /crypto-monitor
   logoUrl: https://res.cloudinary.com/dfsht1snd/image/upload/v1675451285/website/social/goquant.png
   name: Crypto Monitor
   introTitle: "**Crypto Monitor** monitors the cryto exchange apis."
   introMessage: Monitors relate to REST connections and do not include websockets
   navbar:
-    - title: Status
-      href: /
+    - title: GoQuant
+      href: https://goquant.io
     - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+      href: https://github.com/goquantio
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
