@@ -6,9 +6,9 @@ sites:
   - name: Binance - aggTrades
     url: https://api.binance.us/api/v3/aggTrades
   - name: Binance - avgPrice
-    url: https://api.binance.us/api/v3/avgPrice
+    url: https://api.binance.us/api/v3/avgPrice?symbol=BTCUSDT
   - name: Binance - depth
-    url: https://api.binance.us/api/v3/depth
+    url: https://api.binance.us/api/v3/depth?symbol=BTCUSDT
   - name: Binance - exchangeInfo
     url: https://api.binance.us/api/v3/exchangeInfo
   - name: Binance - klines
@@ -16,7 +16,7 @@ sites:
   - name: Binance - ping
     url: https://api.binance.us/api/v3/ping
   - name: Binance - ticker
-    url: https://api.binance.us/api/v3/ticker
+    url: https://api.binance.us/api/v3/ticker?symbol=BTCUSDT
   - name: Binance - ticker/24hr
     url: https://api.binance.us/api/v3/ticker/24hr
   - name: Binance - ticker/bookTicker
@@ -26,13 +26,9 @@ sites:
   - name: Binance - time
     url: https://api.binance.us/api/v3/time
   - name: Binance - trades
-    url: https://api.binance.us/api/v3/trades
+    url: https://api.binance.us/api/v3/trades?symbol=BTCUSDT
   - name: Binance - uiKlines
     url: https://api.binance.us/api/v3/uiKlines
-  - name: Binance - Order
-    url: https://api.binance.us/api/v3/uiKlines
-  - name: Binance - Live Ticker Websocket
-    url: wss://stream.binance.us:9443/ws/btcusdt@liveTicker
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
