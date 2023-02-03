@@ -8,7 +8,7 @@ sites:
   - name: Binance - time
     url: https://api.binance.us/fapi/v1/time
   - name: Binance - aggTrades
-    url: https://api.binance.us/api/v3/aggTrades
+    url: https://api.binance.us/api/v3/aggTrades?symbol=BTCUSDT&limit=500
   - name: Binance - avgPrice - BTCUSDT
     url: https://api.binance.us/api/v3/avgPrice?symbol=BTCUSDT
   - name: Binance - depth - BTCUSDT
@@ -31,11 +31,7 @@ sites:
     url: https://api.binance.us/api/v3/trades?symbol=BTCUSDT
   - name: Binance - historical trades - BTCUSDT/limit=500
     url: https://api.binance.us/api/v3/ticker/24hr
-  - name: Binance - futures ping
-    url: https://api.binance.us/fapi/v1/ping
-  - name: Binance - futures server time
-    url: https://api.binance.us/fapi/v1/time
-
+    
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
