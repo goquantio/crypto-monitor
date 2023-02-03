@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.binance.us.ico",
     "slug": "binance-time",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 70,
     "timeDay": 70,
     "timeWeek": 70,
     "timeMonth": 70,
     "timeYear": 70,
-    "dailyMinutesDown": {
-      "2023-02-03": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Binance - aggTrades",
@@ -207,19 +205,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.binance.us.ico",
     "slug": "binance-time",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.90%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 70,
     "timeDay": 70,
     "timeWeek": 70,
     "timeMonth": 70,
     "timeYear": 70,
-    "dailyMinutesDown": {
-      "2023-02-03": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Binance - trades - BTCUSDT",
@@ -263,11 +259,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.binance.us.ico",
     "slug": "binance-futures-ping",
     "status": "down",
-    "uptime": "6.75%",
-    "uptimeDay": "6.75%",
-    "uptimeWeek": "6.75%",
-    "uptimeMonth": "6.75%",
-    "uptimeYear": "6.75%",
+    "uptime": "6.74%",
+    "uptimeDay": "6.74%",
+    "uptimeWeek": "6.74%",
+    "uptimeMonth": "6.74%",
+    "uptimeYear": "6.74%",
     "time": 4,
     "timeDay": 4,
     "timeWeek": 4,
