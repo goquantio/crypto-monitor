@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api.binance.us.ico",
     "slug": "binance-server-time",
     "status": "up",
-    "uptime": "2.61%",
-    "uptimeDay": "2.61%",
-    "uptimeWeek": "2.61%",
-    "uptimeMonth": "2.61%",
-    "uptimeYear": "2.61%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 40,
     "timeDay": 40,
     "timeWeek": 40,
     "timeMonth": 40,
     "timeYear": 40,
-    "dailyMinutesDown": {
-      "2023-02-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Binance - Aggregate Trades (BTCUSDT/limit=500)",
