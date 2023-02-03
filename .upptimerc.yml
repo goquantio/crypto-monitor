@@ -3,15 +3,7 @@ owner: goquantio # Your GitHub organization or username, where this repository l
 repo: crypto-monitor # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
-  - name: Binance - Exchange Info
+  - name: Binance
     url: https://data.binance.com/api/v3/exchangeInfo    
 
 status-website:
