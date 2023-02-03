@@ -59,23 +59,23 @@ sites:
   # ByBit
   - name: Server Time
     url: https://api-testnet.bybit.com/v2/public/time
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bybit.png
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
 
   - name: Kline - (BTCUSDT/Interval 1/From Now)
     url: https://api-testnet.bybit.com/public/linear/kline?symbol=BTCUSDT&interval=1&limit=2&from=1581231260
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bybit.png
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
 
   - name: Recent Trading - (BTCUSDT/Limit = 500)
     url: https://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bybit.png
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
 
   - name: Recent Trading - (BTCUSDT/Limit = 500)
     url: https://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bybit.png
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
 
   - name: Latest Funding Rate - (BTCUSDT/Limit = 500)
     url: https://api-testnet.bybit.com/public/linear/funding/prev-funding-rate?symbol=BTCUSDT
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bybit.png
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
 
   # Kraken
   - name: Server Time
