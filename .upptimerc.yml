@@ -29,6 +29,8 @@ sites:
     url: https://data.binance.com/api/v3/trades
   - name: Binance - uiKlines
     url: https://data.binance.com/api/v3/uiKlines
+  - name: Binance - Live Ticker Websocket
+    url: wss://stream.binance.us:9443/ws/btcusdt@liveTicker
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
