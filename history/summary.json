@@ -185,19 +185,17 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png",
     "slug": "symbol-pairs-btcusdt-limit-500",
     "status": "up",
-    "uptime": "4.59%",
-    "uptimeDay": "4.59%",
-    "uptimeWeek": "4.59%",
-    "uptimeMonth": "4.59%",
-    "uptimeYear": "4.59%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 229,
     "timeDay": 229,
     "timeWeek": 229,
     "timeMonth": 229,
     "timeYear": 229,
-    "dailyMinutesDown": {
-      "2023-02-03": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Symbol Pairs (XBT/ETH)",
