@@ -43,7 +43,7 @@ status-website:
     - title: GoQuant
       href: https://goquant.io
     - title: GitHub
-      href: https://github.com/goquantio
+      href: https://github.com/goquantio/crypto-monitor
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
