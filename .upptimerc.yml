@@ -5,6 +5,7 @@ repo: crypto-monitor # The name of this repository
 sites:
   - name: Binance - Ping
     url: https://api.binance.us/api/v3/ping
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
   - name: Binance - Server Time
     url: https://api.binance.us/api/v3/time
   - name: Binance - Aggregate Trades (BTCUSDT/limit=500)
