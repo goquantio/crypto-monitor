@@ -3,6 +3,10 @@ owner: goquantio # Your GitHub organization or username, where this repository l
 repo: crypto-monitor # The name of this repository
 
 sites:
+  - name: Binance - ping
+    url: https://api.binance.us/api/v3/ping
+  - name: Binance - time
+    url: https://api.binance.us/fapi/v1/time
   - name: Binance - aggTrades
     url: https://api.binance.us/api/v3/aggTrades
   - name: Binance - avgPrice - BTCUSDT
@@ -13,8 +17,6 @@ sites:
     url: https://api.binance.us/api/v3/exchangeInfo
   - name: Binance - klines - BTCUSDT - 1 day
     url: https://api.binance.us/api/v3/klines?symbol=BTCUSDT&interval=1d
-  - name: Binance - ping
-    url: https://api.binance.us/api/v3/ping
   - name: Binance - ticker - BTCUSDT
     url: https://api.binance.us/api/v3/ticker?symbol=BTCUSDT
   - name: Binance - ticker/24hr
@@ -27,6 +29,12 @@ sites:
     url: https://api.binance.us/api/v3/time
   - name: Binance - trades - BTCUSDT
     url: https://api.binance.us/api/v3/trades?symbol=BTCUSDT
+  - name: Binance - historical trades - BTCUSDT/limit=500
+    url: https://api.binance.us/api/v3/ticker/24hr
+  - name: Binance - futures ping
+    url: https://api.binance.us/fapi/v1/ping
+  - name: Binance - futures server time
+    url: https://api.binance.us/fapi/v1/time
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
