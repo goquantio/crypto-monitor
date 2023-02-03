@@ -4,31 +4,33 @@ repo: crypto-monitor # The name of this repository
 
 sites:
   - name: Binance - aggTrades
-    url: https://data.binance.com/api/v3/aggTrades
+    url: https://api.binance.us/api/v3/aggTrades
   - name: Binance - avgPrice
-    url: https://data.binance.com/api/v3/avgPrice
+    url: https://api.binance.us/api/v3/avgPrice
   - name: Binance - depth
-    url: https://data.binance.com/api/v3/depth
+    url: https://api.binance.us/api/v3/depth
   - name: Binance - exchangeInfo
-    url: https://data.binance.com/api/v3/exchangeInfo
+    url: https://api.binance.us/api/v3/exchangeInfo
   - name: Binance - klines
-    url: https://data.binance.com/api/v3/klines
+    url: https://api.binance.us/api/v3/klines
   - name: Binance - ping
-    url: https://data.binance.com/api/v3/ping
+    url: https://api.binance.us/api/v3/ping
   - name: Binance - ticker
-    url: https://data.binance.com/api/v3/ticker
+    url: https://api.binance.us/api/v3/ticker
   - name: Binance - ticker/24hr
-    url: https://data.binance.com/api/v3/ticker/24hr
+    url: https://api.binance.us/api/v3/ticker/24hr
   - name: Binance - ticker/bookTicker
-    url: https://data.binance.com/api/v3/ticker/bookTicker
+    url: https://api.binance.us/api/v3/ticker/bookTicker
   - name: Binance - ticker/price
-    url: https://data.binance.com/api/v3/ticker/price
+    url: https://api.binance.us/api/v3/ticker/price
   - name: Binance - time
-    url: https://data.binance.com/api/v3/time
+    url: https://api.binance.us/api/v3/time
   - name: Binance - trades
-    url: https://data.binance.com/api/v3/trades
+    url: https://api.binance.us/api/v3/trades
   - name: Binance - uiKlines
-    url: https://data.binance.com/api/v3/uiKlines
+    url: https://api.binance.us/api/v3/uiKlines
+  - name: Binance - Order
+    url: https://api.binance.us/api/v3/uiKlines
   - name: Binance - Live Ticker Websocket
     url: wss://stream.binance.us:9443/ws/btcusdt@liveTicker
 
