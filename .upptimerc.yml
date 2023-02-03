@@ -3,35 +3,33 @@ owner: goquantio # Your GitHub organization or username, where this repository l
 repo: crypto-monitor # The name of this repository
 
 sites:
-  - name: Binance - ping
+  - name: Binance - Ping
     url: https://api.binance.us/api/v3/ping
-  - name: Binance - time
+  - name: Binance - Server Time
     url: https://api.binance.us/fapi/v1/time
-  - name: Binance - aggTrades
+  - name: Binance - Aggregate Trades (BTCUSDT/limit=500)
     url: https://api.binance.us/api/v3/aggTrades?symbol=BTCUSDT&limit=500
-  - name: Binance - avgPrice - BTCUSDT
+  - name: Binance - Average Price - (BTCUSDT)
     url: https://api.binance.us/api/v3/avgPrice?symbol=BTCUSDT
-  - name: Binance - depth - BTCUSDT
+  - name: Binance - Depth - (BTCUSDT)
     url: https://api.binance.us/api/v3/depth?symbol=BTCUSDT
   - name: Binance - exchangeInfo
     url: https://api.binance.us/api/v3/exchangeInfo
-  - name: Binance - klines - BTCUSDT - 1 day
+  - name: Binance - Klines - (BTCUSDT/1 Day Interval)
     url: https://api.binance.us/api/v3/klines?symbol=BTCUSDT&interval=1d
-  - name: Binance - ticker - BTCUSDT
+  - name: Binance - UIKlines (BTCUSDT/1 Day Interval/Limit = 500)
+    url: https://api.binance.us/api/v3/uiKlines?symbol=BTCUSDT&interval=1d&limit=500
+  - name: Binance - Ticker - (BTCUSDT)
     url: https://api.binance.us/api/v3/ticker?symbol=BTCUSDT
-  - name: Binance - ticker/24hr
+  - name: Binance - Ticker/24hr
     url: https://api.binance.us/api/v3/ticker/24hr
-  - name: Binance - ticker/bookTicker
+  - name: Binance - Ticker/Book Ticker
     url: https://api.binance.us/api/v3/ticker/bookTicker
-  - name: Binance - ticker/price
+  - name: Binance - Ticker/Price
     url: https://api.binance.us/api/v3/ticker/price
-  - name: Binance - time
-    url: https://api.binance.us/api/v3/time
-  - name: Binance - trades - BTCUSDT
+  - name: Binance - trades - (BTCUSDT)
     url: https://api.binance.us/api/v3/trades?symbol=BTCUSDT
-  - name: Binance - historical trades - BTCUSDT/limit=500
-    url: https://api.binance.us/api/v3/ticker/24hr
-    
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
