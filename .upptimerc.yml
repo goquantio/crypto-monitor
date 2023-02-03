@@ -34,8 +34,8 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
-  baseUrl: /crypto-monitor
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  baseUrl: https://github.com/goquantio/crypto-monitor
+  logoUrl: https://res.cloudinary.com/dfsht1snd/image/upload/v1675451285/website/social/goquant.png
   name: Crypto Monitor
   introTitle: "**Crypto Monitor** monitors the cryto exchange apis."
   introMessage: Monitors relate to REST connections and do not include websockets
