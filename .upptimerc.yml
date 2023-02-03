@@ -5,17 +5,17 @@ repo: crypto-monitor # The name of this repository
 sites:
   - name: Binance - aggTrades
     url: https://api.binance.us/api/v3/aggTrades
-  - name: Binance - avgPrice
+  - name: Binance - avgPrice - BTCUSDT
     url: https://api.binance.us/api/v3/avgPrice?symbol=BTCUSDT
-  - name: Binance - depth
+  - name: Binance - depth - BTCUSDT
     url: https://api.binance.us/api/v3/depth?symbol=BTCUSDT
   - name: Binance - exchangeInfo
     url: https://api.binance.us/api/v3/exchangeInfo
-  - name: Binance - klines
-    url: https://api.binance.us/api/v3/klines
+  - name: Binance - klines - BTCUSDT - 1 day
+    url: https://api.binance.us/api/v3/klines?symbol=BTCUSDT&interval=1d
   - name: Binance - ping
     url: https://api.binance.us/api/v3/ping
-  - name: Binance - ticker
+  - name: Binance - ticker - BTCUSDT
     url: https://api.binance.us/api/v3/ticker?symbol=BTCUSDT
   - name: Binance - ticker/24hr
     url: https://api.binance.us/api/v3/ticker/24hr
@@ -25,10 +25,8 @@ sites:
     url: https://api.binance.us/api/v3/ticker/price
   - name: Binance - time
     url: https://api.binance.us/api/v3/time
-  - name: Binance - trades
+  - name: Binance - trades - BTCUSDT
     url: https://api.binance.us/api/v3/trades?symbol=BTCUSDT
-  - name: Binance - uiKlines
-    url: https://api.binance.us/api/v3/uiKlines
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
