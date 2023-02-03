@@ -35,6 +35,10 @@ sites:
     url: https://api.binance.us/api/v3/klines?symbol=BTCUSDT&interval=1d
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
 
+  - name: OHLCV (BTCUSDT/1 Day Interval/Limit = 2)
+    url: https://api-testnet.bybit.com/public/linear/kline?symbol=BTCUSDT&interval=1&limit=2&from=1581231260
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
+
   - name: OHLCV (XBTUSD)
     url: https://api.kraken.com/0/public/OHLC?pair=XBTUSD
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
@@ -45,7 +49,7 @@ sites:
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
 
   - name: Symbol Pairs (BTCUSDT/Limit = 500)
-    url: hhttps://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
+    url: https://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png
 
   - name: Symbol Pairs (XBT/ETH)
