@@ -6,7 +6,7 @@ sites:
   - name: Binance - Ping
     url: https://api.binance.us/api/v3/ping
   - name: Binance - Server Time
-    url: https://api.binance.us/fapi/v1/time
+    url: https://api.binance.us/api/v3/time
   - name: Binance - Aggregate Trades (BTCUSDT/limit=500)
     url: https://api.binance.us/api/v3/aggTrades?symbol=BTCUSDT&limit=500
   - name: Binance - Average Price - (BTCUSDT)
