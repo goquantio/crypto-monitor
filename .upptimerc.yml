@@ -80,8 +80,21 @@ sites:
   - name: Kraken - Server Time
     url: https://api.kraken.com/0/public/Time
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
+
   - name: Kraken - Symbol Pairs (XBT/ETH)
     url: https://api.kraken.com/0/public/Assets?asset=XBT,ETH&aclass=currency
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
+    
+  - name: Kraken - OHLC (XBTUSD)
+    url: https://api.kraken.com/0/public/OHLC?pair=XBTUSD
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
+    
+  - name: Kraken - Orderbook (XBTUSD)
+    url: https://api.kraken.com/0/public/Depth?pair=XBTUSD
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
+    
+  - name: Kraken - Recent Trades (XBTUSD)
+    url: https://api.kraken.com/0/public/Trades?pair=XBTUSD
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png
 
 
