@@ -6,30 +6,77 @@ sites:
   - name: Binance - Ping
     url: https://api.binance.us/api/v3/ping
     icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
   - name: Binance - Server Time
     url: https://api.binance.us/api/v3/time
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
   - name: Binance - Aggregate Trades (BTCUSDT/limit=500)
     url: https://api.binance.us/api/v3/aggTrades?symbol=BTCUSDT&limit=500
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
   - name: Binance - Average Price - (BTCUSDT)
     url: https://api.binance.us/api/v3/avgPrice?symbol=BTCUSDT
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
   - name: Binance - Depth - (BTCUSDT)
     url: https://api.binance.us/api/v3/depth?symbol=BTCUSDT
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
   - name: Binance - exchangeInfo
     url: https://api.binance.us/api/v3/exchangeInfo
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+    
   - name: Binance - Klines - (BTCUSDT/1 Day Interval)
     url: https://api.binance.us/api/v3/klines?symbol=BTCUSDT&interval=1d
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
   - name: Binance - UIKlines (BTCUSDT/1 Day Interval/Limit = 500)
     url: https://api.binance.us/api/v3/uiKlines?symbol=BTCUSDT&interval=1d&limit=500
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
   - name: Binance - Ticker - (BTCUSDT)
     url: https://api.binance.us/api/v3/ticker?symbol=BTCUSDT
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+    
   - name: Binance - Ticker/24hr
     url: https://api.binance.us/api/v3/ticker/24hr
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
   - name: Binance - Ticker/Book Ticker
     url: https://api.binance.us/api/v3/ticker/bookTicker
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
   - name: Binance - Ticker/Price
     url: https://api.binance.us/api/v3/ticker/price
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+
   - name: Binance - trades - (BTCUSDT)
     url: https://api.binance.us/api/v3/trades?symbol=BTCUSDT
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png
+  
+  # ByBit
+  - name: ByBit - Server Time
+    url: https://api-testnet.bybit.com/v2/public/time
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bybit.png
+
+  - name: ByBit - Kline - (BTCUSDT/Interval 1/From Now)
+    url: https://api-testnet.bybit.com/public/linear/kline?symbol=BTCUSDT&interval=1&limit=2&from=1581231260
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bybit.png
+
+  - name: ByBit - Recent Trading - (BTCUSDT/Limit = 500)
+    url: https://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bybit.png
+
+  - name: ByBit - Recent Trading - (BTCUSDT/Limit = 500)
+    url: https://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bybit.png
+
+  - name: ByBit - Latest Funding Rate - (BTCUSDT/Limit = 500)
+    url: https://api-testnet.bybit.com/public/linear/funding/prev-funding-rate?symbol=BTCUSDT
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bybit.png
+
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
