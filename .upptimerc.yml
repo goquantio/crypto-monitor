@@ -18,7 +18,7 @@ sites:
     
   - name: Server Time
     url: https://api-pub.bitfinex.com/v2/platform/status
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex.png
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png
 
 
   # Orderbook
@@ -36,7 +36,7 @@ sites:
 
   - name: Orderbook (XBTUSD)
     url: https://api-pub.bitfinex.com/v2/book/tBTCUSD/P0?len=25
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex.png
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png
 
   # OHLCV
   - name: OHLCV (BTCUSDT/1 Day Interval)
@@ -53,7 +53,7 @@ sites:
     
   - name: OHLCV (XBTUSD)
     url: https://api-pub.bitfinex.com/v2/candles/trade:1m:tBTCUSD/hist?limit=120&sort=-1
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex.png
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png
 
   # Symbol Pair Price
   - name: Symbol Pairs (BTCUSDT)
@@ -70,7 +70,7 @@ sites:
 
   - name: Symbol Pairs (XBT/ETH)
     url: https://api-pub.bitfinex.com/v2/ticker/tBTCUSD
-    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex.png
+    icon: https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png
 
 
   # Recent Trading
