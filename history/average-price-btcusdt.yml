@@ -1,7 +1,7 @@
 url: https://api.binance.us/api/v3/avgPrice?symbol=BTCUSDT
 status: up
 code: 200
-responseTime: 11
-lastUpdated: 2023-02-06T14:19:37.397Z
+responseTime: 48
+lastUpdated: 2023-02-06T23:13:09.954Z
 startTime: Fri Feb 03 2023 21:59:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
