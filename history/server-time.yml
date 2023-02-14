@@ -1,7 +1,7 @@
-url: https://api.kraken.com/0/public/Time
+url: https://api-pub.bitfinex.com/v2/platform/status
 status: up
 code: 200
-responseTime: 168
-lastUpdated: 2023-02-14T23:13:33.111Z
+responseTime: 197
+lastUpdated: 2023-02-14T23:13:33.587Z
 startTime: Fri Feb 03 2023 21:59:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
