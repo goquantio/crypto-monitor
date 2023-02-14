@@ -1,7 +1,7 @@
 url: https://api.binance.us/api/v3/aggTrades?symbol=BTCUSDT&limit=500
 status: up
 code: 200
-responseTime: 109
-lastUpdated: 2023-02-13T23:13:56.703Z
+responseTime: 14
+lastUpdated: 2023-02-14T23:13:40.611Z
 startTime: Fri Feb 03 2023 21:59:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
