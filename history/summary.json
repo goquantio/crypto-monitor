@@ -5,18 +5,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png",
     "slug": "server-time",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.31%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 312,
-    "timeDay": 293,
-    "timeWeek": 319,
+    "timeDay": 287,
+    "timeWeek": 316,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-02-15": 95
+      "2023-02-15": 112
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png",
     "slug": "server-time",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.31%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 312,
-    "timeDay": 293,
-    "timeWeek": 319,
+    "timeDay": 287,
+    "timeWeek": 316,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-02-15": 95
+      "2023-02-15": 112
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png",
     "slug": "server-time",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.31%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 312,
-    "timeDay": 293,
-    "timeWeek": 319,
+    "timeDay": 287,
+    "timeWeek": 316,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-02-15": 95
+      "2023-02-15": 112
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png",
     "slug": "server-time",
     "status": "down",
-    "uptime": "99.41%",
-    "uptimeDay": "93.41%",
-    "uptimeWeek": "99.06%",
-    "uptimeMonth": "99.41%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.31%",
+    "uptimeDay": "92.21%",
+    "uptimeWeek": "98.89%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
     "time": 312,
-    "timeDay": 293,
-    "timeWeek": 319,
+    "timeDay": 287,
+    "timeWeek": 316,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-02-15": 95
+      "2023-02-15": 112
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "https://api.kraken.com/0/public/Depth?pair=XBTUSD",
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png",
     "slug": "orderbook-xbtusd",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
-    "time": 131,
-    "timeDay": 108,
-    "timeWeek": 137,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 129,
+    "timeDay": 104,
+    "timeWeek": 134,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-02-15": 93
+      "2023-02-15": 111
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "https://api-pub.bitfinex.com/v2/book/tBTCUSD/P0?len=25",
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png",
     "slug": "orderbook-xbtusd",
-    "status": "down",
-    "uptime": "99.42%",
-    "uptimeDay": "93.52%",
-    "uptimeWeek": "99.07%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
-    "time": 131,
-    "timeDay": 108,
-    "timeWeek": 137,
-    "timeMonth": 131,
-    "timeYear": 131,
+    "status": "up",
+    "uptime": "99.31%",
+    "uptimeDay": "92.30%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "99.31%",
+    "uptimeYear": "99.31%",
+    "time": 129,
+    "timeDay": 104,
+    "timeWeek": 134,
+    "timeMonth": 129,
+    "timeYear": 129,
     "dailyMinutesDown": {
-      "2023-02-15": 93
+      "2023-02-15": 111
     }
   },
   {
@@ -196,19 +196,19 @@
     "url": "https://api.kraken.com/0/public/OHLC?pair=XBTUSD",
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png",
     "slug": "ohlcv-xbtusd",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "93.62%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
-    "time": 180,
-    "timeDay": 198,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "92.34%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 181,
+    "timeDay": 196,
     "timeWeek": 182,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-02-15": 92
+      "2023-02-15": 110
     }
   },
   {
@@ -216,19 +216,19 @@
     "url": "https://api-pub.bitfinex.com/v2/candles/trade:1m:tBTCUSD/hist?limit=120&sort=-1",
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png",
     "slug": "ohlcv-xbtusd",
-    "status": "down",
-    "uptime": "99.43%",
-    "uptimeDay": "93.62%",
-    "uptimeWeek": "99.09%",
-    "uptimeMonth": "99.43%",
-    "uptimeYear": "99.43%",
-    "time": 180,
-    "timeDay": 198,
+    "status": "up",
+    "uptime": "99.32%",
+    "uptimeDay": "92.34%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
+    "time": 181,
+    "timeDay": 196,
     "timeWeek": 182,
-    "timeMonth": 180,
-    "timeYear": 180,
+    "timeMonth": 181,
+    "timeYear": 181,
     "dailyMinutesDown": {
-      "2023-02-15": 92
+      "2023-02-15": 110
     }
   },
   {
@@ -272,19 +272,19 @@
     "url": "https://api.kraken.com/0/public/AssetPairs?pair=XXBTZUSD,XETHXXBT",
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png",
     "slug": "symbol-pairs-xbt-eth",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 123,
-    "timeDay": 103,
-    "timeWeek": 126,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "92.44%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 122,
+    "timeDay": 105,
+    "timeWeek": 125,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2023-02-15": 90
+      "2023-02-15": 109
     }
   },
   {
@@ -292,19 +292,19 @@
     "url": "https://api-pub.bitfinex.com/v2/ticker/tBTCUSD",
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png",
     "slug": "symbol-pairs-xbt-eth",
-    "status": "down",
-    "uptime": "99.44%",
-    "uptimeDay": "93.73%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.44%",
-    "uptimeYear": "99.44%",
-    "time": 123,
-    "timeDay": 103,
-    "timeWeek": 126,
-    "timeMonth": 123,
-    "timeYear": 123,
+    "status": "up",
+    "uptime": "99.33%",
+    "uptimeDay": "92.44%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "99.33%",
+    "uptimeYear": "99.33%",
+    "time": 122,
+    "timeDay": 105,
+    "timeWeek": 125,
+    "timeMonth": 122,
+    "timeYear": 122,
     "dailyMinutesDown": {
-      "2023-02-15": 90
+      "2023-02-15": 109
     }
   },
   {
