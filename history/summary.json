@@ -4,19 +4,19 @@
     "url": "https://api.binance.us/api/v3/time",
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671212066/website/solutions/exchanges/binance-light.png",
     "slug": "server-time",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 316,
-    "timeDay": 353,
-    "timeWeek": 328,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 312,
+    "timeDay": 293,
+    "timeWeek": 319,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-02-15": 68
+      "2023-02-15": 95
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://api-testnet.bybit.com/v2/public/time",
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211942/website/solutions/exchanges/bybit-light.png",
     "slug": "server-time",
-    "status": "up",
-    "uptime": "99.58%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 316,
-    "timeDay": 353,
-    "timeWeek": 328,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 312,
+    "timeDay": 293,
+    "timeWeek": 319,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-02-15": 68
+      "2023-02-15": 95
     }
   },
   {
@@ -45,18 +45,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png",
     "slug": "server-time",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 316,
-    "timeDay": 353,
-    "timeWeek": 328,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "uptime": "99.41%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 312,
+    "timeDay": 293,
+    "timeWeek": 319,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-02-15": 68
+      "2023-02-15": 95
     }
   },
   {
@@ -65,18 +65,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png",
     "slug": "server-time",
     "status": "down",
-    "uptime": "99.58%",
-    "uptimeDay": "95.26%",
-    "uptimeWeek": "99.32%",
-    "uptimeMonth": "99.58%",
-    "uptimeYear": "99.58%",
-    "time": 316,
-    "timeDay": 353,
-    "timeWeek": 328,
-    "timeMonth": 316,
-    "timeYear": 316,
+    "uptime": "99.41%",
+    "uptimeDay": "93.41%",
+    "uptimeWeek": "99.06%",
+    "uptimeMonth": "99.41%",
+    "uptimeYear": "99.41%",
+    "time": 312,
+    "timeDay": 293,
+    "timeWeek": 319,
+    "timeMonth": 312,
+    "timeYear": 312,
     "dailyMinutesDown": {
-      "2023-02-15": 68
+      "2023-02-15": 95
     }
   },
   {
@@ -121,18 +121,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png",
     "slug": "orderbook-xbtusd",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "95.36%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 132,
-    "timeDay": 113,
-    "timeWeek": 140,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "uptime": "99.42%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 131,
+    "timeDay": 108,
+    "timeWeek": 137,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-02-15": 67
+      "2023-02-15": 93
     }
   },
   {
@@ -141,18 +141,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png",
     "slug": "orderbook-xbtusd",
     "status": "down",
-    "uptime": "99.59%",
-    "uptimeDay": "95.36%",
-    "uptimeWeek": "99.34%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 132,
-    "timeDay": 113,
-    "timeWeek": 140,
-    "timeMonth": 132,
-    "timeYear": 132,
+    "uptime": "99.42%",
+    "uptimeDay": "93.52%",
+    "uptimeWeek": "99.07%",
+    "uptimeMonth": "99.42%",
+    "uptimeYear": "99.42%",
+    "time": 131,
+    "timeDay": 108,
+    "timeWeek": 137,
+    "timeMonth": 131,
+    "timeYear": 131,
     "dailyMinutesDown": {
-      "2023-02-15": 67
+      "2023-02-15": 93
     }
   },
   {
@@ -197,18 +197,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png",
     "slug": "ohlcv-xbtusd",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 182,
-    "timeDay": 237,
-    "timeWeek": 186,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "uptime": "99.43%",
+    "uptimeDay": "93.62%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 180,
+    "timeDay": 198,
+    "timeWeek": 182,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {
-      "2023-02-15": 65
+      "2023-02-15": 92
     }
   },
   {
@@ -217,18 +217,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png",
     "slug": "ohlcv-xbtusd",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "95.47%",
-    "uptimeWeek": "99.35%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
-    "time": 182,
-    "timeDay": 237,
-    "timeWeek": 186,
-    "timeMonth": 182,
-    "timeYear": 182,
+    "uptime": "99.43%",
+    "uptimeDay": "93.62%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 180,
+    "timeDay": 198,
+    "timeWeek": 182,
+    "timeMonth": 180,
+    "timeYear": 180,
     "dailyMinutesDown": {
-      "2023-02-15": 65
+      "2023-02-15": 92
     }
   },
   {
@@ -273,18 +273,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/kraken.png",
     "slug": "symbol-pairs-xbt-eth",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "95.58%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.44%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 123,
-    "timeDay": 90,
+    "timeDay": 103,
     "timeWeek": 126,
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2023-02-15": 64
+      "2023-02-15": 90
     }
   },
   {
@@ -293,18 +293,18 @@
     "icon": "https://res.cloudinary.com/dfsht1snd/image/upload/v1671211943/website/solutions/exchanges/bitfinex-light.png",
     "slug": "symbol-pairs-xbt-eth",
     "status": "down",
-    "uptime": "99.60%",
-    "uptimeDay": "95.57%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.60%",
-    "uptimeYear": "99.60%",
+    "uptime": "99.44%",
+    "uptimeDay": "93.73%",
+    "uptimeWeek": "99.10%",
+    "uptimeMonth": "99.44%",
+    "uptimeYear": "99.44%",
     "time": 123,
-    "timeDay": 90,
+    "timeDay": 103,
     "timeWeek": 126,
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
-      "2023-02-15": 64
+      "2023-02-15": 90
     }
   },
   {
