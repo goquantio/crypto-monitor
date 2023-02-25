@@ -1,7 +1,7 @@
-url: https://api-testnet.bybit.com/v2/public/time
+url: https://api.kraken.com/0/public/Time
 status: up
 code: 200
-responseTime: 613
-lastUpdated: 2023-02-25T23:03:24.954Z
+responseTime: 160
+lastUpdated: 2023-02-25T23:03:25.444Z
 startTime: Fri Feb 03 2023 21:59:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
