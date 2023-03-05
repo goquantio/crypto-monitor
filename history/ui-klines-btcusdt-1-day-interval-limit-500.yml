@@ -1,7 +1,7 @@
 url: https://api.binance.us/api/v3/uiKlines?symbol=BTCUSDT&interval=1d&limit=500
 status: up
 code: 200
-responseTime: 52
-lastUpdated: 2023-03-04T23:03:42.593Z
+responseTime: 138
+lastUpdated: 2023-03-05T23:03:44.116Z
 startTime: Fri Feb 03 2023 21:59:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
