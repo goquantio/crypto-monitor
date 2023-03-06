@@ -1,7 +1,7 @@
 url: https://api-pub.bitfinex.com/v2/platform/status
-status: up
-code: 200
-responseTime: 312
-lastUpdated: 2023-03-05T23:03:32.397Z
+status: down
+code: 503
+responseTime: 203
+lastUpdated: 2023-03-06T09:11:31.985Z
 startTime: Fri Feb 03 2023 21:59:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
