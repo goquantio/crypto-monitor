@@ -1,7 +1,7 @@
 url: https://api.kraken.com/0/public/OHLC?pair=XBTUSD
 status: up
 code: 200
-responseTime: 121
-lastUpdated: 2023-03-06T13:03:57.298Z
+responseTime: 132
+lastUpdated: 2023-03-06T23:03:40.364Z
 startTime: Fri Feb 03 2023 22:11:45 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
