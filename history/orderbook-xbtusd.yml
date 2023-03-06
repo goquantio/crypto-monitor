@@ -1,7 +1,7 @@
-url: https://api.kraken.com/0/public/Depth?pair=XBTUSD
-status: up
-code: 200
-responseTime: 93
-lastUpdated: 2023-03-06T09:33:35.322Z
+url: https://api-pub.bitfinex.com/v2/book/tBTCUSD/P0?len=25
+status: down
+code: 503
+responseTime: 200
+lastUpdated: 2023-03-06T09:33:40.620Z
 startTime: Fri Feb 03 2023 21:59:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
