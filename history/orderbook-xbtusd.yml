@@ -1,7 +1,7 @@
 url: https://api.kraken.com/0/public/Depth?pair=XBTUSD
 status: up
 code: 200
-responseTime: 90
-lastUpdated: 2023-03-06T13:03:52.394Z
+responseTime: 82
+lastUpdated: 2023-03-06T23:03:38.350Z
 startTime: Fri Feb 03 2023 21:59:37 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
