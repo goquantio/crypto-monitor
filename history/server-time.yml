@@ -1,7 +1,7 @@
-url: https://api.binance.us/api/v3/time
+url: https://api-testnet.bybit.com/v2/public/time
 status: up
 code: 200
-responseTime: 68
-lastUpdated: 2023-03-08T23:03:28.097Z
+responseTime: 725
+lastUpdated: 2023-03-08T23:03:29.135Z
 startTime: Fri Feb 03 2023 21:59:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
