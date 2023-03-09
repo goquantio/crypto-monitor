@@ -1,7 +1,7 @@
 url: https://api-testnet.bybit.com/public/linear/recent-trading-records?symbol=BTCUSDT&limit=500
 status: up
 code: 200
-responseTime: 510
-lastUpdated: 2023-03-09T23:03:36.604Z
+responseTime: 346
+lastUpdated: 2023-03-09T23:03:40.721Z
 startTime: Fri Feb 03 2023 21:59:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
