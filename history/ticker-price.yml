@@ -1,7 +1,7 @@
 url: https://api.binance.us/api/v3/ticker/price
 status: up
 code: 200
-responseTime: 6
-lastUpdated: 2023-03-08T23:03:39.983Z
+responseTime: 78
+lastUpdated: 2023-03-09T23:03:39.696Z
 startTime: Fri Feb 03 2023 21:59:31 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
