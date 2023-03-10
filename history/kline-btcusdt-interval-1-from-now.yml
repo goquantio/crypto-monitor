@@ -1,7 +1,7 @@
 url: https://api-testnet.bybit.com/public/linear/kline?symbol=BTCUSDT&interval=1&limit=2&from=1581231260
 status: up
 code: 200
-responseTime: 179
-lastUpdated: 2023-03-09T23:03:40.126Z
+responseTime: 509
+lastUpdated: 2023-03-10T23:03:41.893Z
 startTime: Fri Feb 03 2023 21:59:32 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
