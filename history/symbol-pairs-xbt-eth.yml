@@ -1,7 +1,7 @@
-url: https://api-pub.bitfinex.com/v2/ticker/tBTCUSD
+url: https://api.kraken.com/0/public/AssetPairs?pair=XXBTZUSD,XETHXXBT
 status: up
 code: 200
-responseTime: 27
-lastUpdated: 2023-03-09T23:03:35.389Z
+responseTime: 143
+lastUpdated: 2023-03-10T23:03:35.819Z
 startTime: Fri Feb 03 2023 21:59:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
