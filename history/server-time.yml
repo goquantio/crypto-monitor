@@ -1,7 +1,7 @@
-url: https://api-pub.bitfinex.com/v2/platform/status
+url: https://api.binance.us/api/v3/time
 status: up
 code: 200
-responseTime: 329
-lastUpdated: 2023-03-10T23:03:30.153Z
+responseTime: 316
+lastUpdated: 2023-03-11T23:03:19.679Z
 startTime: Fri Feb 03 2023 21:59:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
